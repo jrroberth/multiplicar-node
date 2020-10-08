@@ -1,4 +1,4 @@
-//clases requireds
+//clase requireds
 const fs = require('fs');
 const colors = require('colors');
 
