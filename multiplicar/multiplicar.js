@@ -1,4 +1,4 @@
-//clase requireds
+//funciones requeridas para color y escribir archivo
 const fs = require('fs');
 const colors = require('colors');
 
